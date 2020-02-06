@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Countdown Grey Lynn Central",
+    "address": "144 Williamson Avenue, Grey Lynn, Auckland 1021",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=144%20Williamson%20Avenue,%20Grey%20Lynn,%20Auckland%201021",
+    "phone": "09 255 9665",
+    "services": [
+      "Parcel Collect"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "580 Great North Road, Grey Lynn, Auckland",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=580%20Great%20North%20Road,%20Grey%20Lynn,%20Auckland",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Unichem Grey Lynn Pharmacy",
+    "address": "580 Great North Road, Grey Lynn, Auckland 1021",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=580%20Great%20North%20Road,%20Grey%20Lynn,%20Auckland%201021",
+    "phone": "09 360 1159",
+    "services": [
+      "Box Lobby",
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Counter delivery",
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Grey Lynn Box Lobby",
+    "address": "580 Great North Road, Grey Lynn, Auckland 1021",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=580%20Great%20North%20Road,%20Grey%20Lynn,%20Auckland%201021",
+    "phone": "09 360 1159",
+    "services": [
+      "Box Lobby"
+    ]
+  },
+  {
+    "title": "Kiwibank ATM",
+    "address": "578 Great North Road, Grey Lynn, Auckland 1021",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=578%20Great%20North%20Road,%20Grey%20Lynn,%20Auckland%201021",
+    "phone": "0800 501 501",
+    "services": [
+      "ATM"
+    ]
+  }
+]

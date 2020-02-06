@@ -1,0 +1,14 @@
+{
+  "cardName": "Test Expiry",
+  "cardNumber": "4111111111111111",
+  "expiryDate": "122",
+  "cvvNumber": "1234",
+  "firstName": "Nipun",
+  "lastName": "Mahajan",
+  "companyName": "ABC123",
+  "country": "New Zealand",
+  "address": "122 Kerwyn Avenue",
+  "suburb": "Highbrook",
+  "city": "Auckland",
+  "postcode": 2103
+}

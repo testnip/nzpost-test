@@ -1,0 +1,60 @@
+[
+  {
+    "title": "City Forex",
+    "address": "44 Wellesley St W, Auckland, 1010",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=44%20Wellesley%20St%20W,%20Auckland,%201010",
+    "phone": "09 970 1040",
+    "services": [
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Pay a bill",
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Wellesley Street Box Lobby",
+    "address": "24 Wellesley Street West, Auckland Central, Auckland 1010",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=24%20Wellesley%20Street%20West,%20Auckland%20Central,%20Auckland%201010",
+    "phone": "0800 501 501",
+    "services": [
+      "Box Lobby",
+      "Poste Restante",
+      "Parcel Collect"
+    ]
+  },
+  {
+    "title": "Wellesley Street NZ Post & Kiwibank",
+    "address": "24 Wellesley Street West, Auckland Central, Auckland 1010",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=24%20Wellesley%20Street%20West,%20Auckland%20Central,%20Auckland%201010",
+    "phone": "0800 081 190",
+    "services": [
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Pay a bill",
+      "Standard banking",
+      "Counter delivery",
+      "Dropbox",
+      "Post a letter",
+      "Passport & ID photos",
+      "Kiwibank Transactions"
+    ]
+  },
+  {
+    "title": "Kiwibank ATM",
+    "address": "24 Wellesley Street West, Auckland Central, Auckland 1010",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=24%20Wellesley%20Street%20West,%20Auckland%20Central,%20Auckland%201010",
+    "phone": "080011 33 55",
+    "services": [
+      "ATM"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "44 Wellesley St West Street, Central City, Auckland",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=44%20Wellesley%20St%20West%20Street,%20Central%20City,%20Auckland",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  }
+]

@@ -1,0 +1,187 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>2.0.4.RELEASE</version>
+  </parent>
+
+  <groupId>nzpost.co.nz</groupId>
+  <artifactId>nzpost-web-replatform-tests</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <name>${project.artifactId}</name>
+
+  <properties>
+    <java.version>1.8</java.version>
+    <cucumber.version>1.2.5</cucumber.version>
+  </properties>
+
+  <profiles>
+    <profile>
+      <id>chrome</id>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
+      <properties>
+        <browser.config.arguments>-Dselenide.browser=chrome
+          -Dwebdriver.chrome.driver=${project.basedir}/src/test/resources/drivers/chromedriver
+        </browser.config.arguments>
+      </properties>
+    </profile>
+
+    <profile>
+      <id>firefox</id>
+      <activation>
+        <activeByDefault>false</activeByDefault>
+      </activation>
+      <properties>
+        <browser.config.arguments>-Dselenide.browser=firefox
+          -Dwebdriver.gecko.driver=${project.basedir}/src/test/resources/drivers/geckodriver
+        </browser.config.arguments>
+      </properties>
+    </profile>
+
+    <profile>
+      <id>safari</id>
+      <activation>
+        <activeByDefault>false</activeByDefault>
+      </activation>
+      <properties>
+        <browser.config.arguments>-Dselenide.browser=safari</browser.config.arguments>
+      </properties>
+    </profile>
+
+    <profile>
+      <id>cloud</id>
+      <activation>
+        <activeByDefault>false</activeByDefault>
+      </activation>
+      <properties>
+        <browser.config.arguments>-Dspring.profiles.active=dev,cloud</browser.config.arguments>
+      </properties>
+    </profile>
+  </profiles>
+
+  <dependencies>
+    <!-- Spring -->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.retry</groupId>
+      <artifactId>spring-retry</artifactId>
+    </dependency>
+
+    <!-- Aspectj -->
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjrt</artifactId>
+      <version>1.8.9</version>
+    </dependency>
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjweaver</artifactId>
+      <version>1.8.9</version>
+    </dependency>
+
+    <!-- Cucumber -->
+    <dependency>
+      <groupId>info.cukes</groupId>
+      <artifactId>cucumber-spring</artifactId>
+      <version>${cucumber.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>info.cukes</groupId>
+      <artifactId>cucumber-junit</artifactId>
+      <version>${cucumber.version}</version>
+    </dependency>
+
+    <!-- Selenide -->
+    <dependency>
+      <groupId>com.codeborne</groupId>
+      <artifactId>selenide</artifactId>
+      <version>4.11.2</version>
+    </dependency>
+
+    <!-- Guava -->
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>26.0-jre</version>
+    </dependency>
+
+    <!-- Saucelabs -->
+    <dependency>
+      <groupId>com.saucelabs</groupId>
+      <artifactId>saucerest</artifactId>
+      <version>1.0.39</version>
+    </dependency>
+
+    <!-- Joda Time -->
+    <dependency>
+      <groupId>joda-time</groupId>
+      <artifactId>joda-time</artifactId>
+      <version>2.10</version>
+    </dependency>
+
+    <!-- Single page report -->
+    <dependency>
+      <groupId>com.github.mkolisnyk</groupId>
+      <artifactId>cucumber-reports</artifactId>
+      <version>1.0.7</version>
+    </dependency>
+
+    <!-- Random -->
+    <dependency>
+      <groupId>com.github.shiver-me-timbers</groupId>
+      <artifactId>smt-random</artifactId>
+      <version>1.8</version>
+    </dependency>
+
+    <!-- Webelement Photo -->
+    <dependency>
+      <groupId>ru.yandex.qatools.ashot</groupId>
+      <artifactId>ashot</artifactId>
+      <version>1.5.4</version>
+    </dependency>
+
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-failsafe-plugin</artifactId>
+        <configuration>
+          <testClassesDirectory>${project.build.outputDirectory}</testClassesDirectory>
+          <test>CucumberRunner</test>
+          <argLine>${browser.config.arguments}</argLine>
+        </configuration>
+        <dependencies>
+          <dependency>
+            <groupId>org.apache.maven.surefire</groupId>
+            <artifactId>surefire-junit47</artifactId>
+            <version>${maven-surefire-plugin.version}</version>
+          </dependency>
+        </dependencies>
+        <executions>
+          <execution>
+            <id>integration-tests</id>
+            <goals>
+              <goal>integration-test</goal>
+              <goal>verify</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+</project>

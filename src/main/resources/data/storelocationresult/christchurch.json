@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Posting box",
+    "address": "169 Regents Park Drive, Casebrook, Christchurch",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=169%20Regents%20Park%20Drive,%20Casebrook,%20Christchurch",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "356 Main North Road, Redwood, Christchurch",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=356%20Main%20North%20Road,%20Redwood,%20Christchurch",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "288b Main North Road, Redwood, Christchurch",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=288b%20Main%20North%20Road,%20Redwood,%20Christchurch",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Redwood Mini Market",
+    "address": "284 Main North Road, Redwood, Christchurch 8051",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=284%20Main%20North%20Road,%20Redwood,%20Christchurch%208051",
+    "phone": "03 352 7707",
+    "services": [
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "45 Daniels Road, Redwood, Christchurch",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=45%20Daniels%20Road,%20Redwood,%20Christchurch",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  }
+]

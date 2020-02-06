@@ -1,0 +1,44 @@
+{
+  "suggestions": [
+    {
+      "name": "Auckland Central Business Banking Centre",
+      "address": "151 Victoria Street West, Auckland Central, Auckland 1010"
+    },
+    {
+      "name": "Countdown Auckland Metro",
+      "address": "19 Victoria Street West, Auckland Central, Auckland 1010"
+    },
+    {
+      "name": "Countdown Auckland City",
+      "address": "76 Quay Street, Auckland Central, Auckland 1010"
+    },
+    {
+      "name": "Countdown Auckland Airport",
+      "address": "1 John Goulter Drive, Auckland Airport, Auckland 2022"
+    },
+    {
+      "name": "Auckland Airport Box Lobby",
+      "address": "149C Kirkbride Road, Mangere, Auckland 2022"
+    },
+    {
+      "name": "Auckland",
+      "address": null
+    },
+    {
+      "name": "Auckland Central, Auckland",
+      "address": null
+    },
+    {
+      "name": "Auckland Airport, Auckland",
+      "address": null
+    },
+    {
+      "name": "Auckland Road, Greenmeadows, Napier 4112",
+      "address": null
+    },
+    {
+      "name": "Auckland Street, Picton 7220",
+      "address": null
+    }
+  ]
+}

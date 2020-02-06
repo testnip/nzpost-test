@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Waitangirua Laundromat",
+    "address": "235 Warspite Avenue, Waitangirua, Porirua 5024",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=235%20Warspite%20Avenue,%20Waitangirua,%20Porirua%205024",
+    "phone": "04 235 9445",
+    "services": [
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Post a letter"
+    ]
+  }
+]

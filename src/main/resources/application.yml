@@ -1,0 +1,28 @@
+host: http://localhost:3000
+
+# enable the tests to run on cloud services like saucelabs or browserstack
+cloud:
+  enabled: false
+
+# saucelabs
+# https://wiki.saucelabs.com/display/DOCS/Test+Configuration+Options
+saucelabs:
+  domain: ondemand.saucelabs.com
+  # credentials
+  username: nikitinakaterina
+  access-key: cf3ee2f1-f52c-47c0-9c1d-1104c93ffa25
+
+  # browser
+  # https://wiki.saucelabs.com/display/DOCS/Platform+Configurator#/
+  platform: Windows 10
+  browser-name: chrome
+  browser-version: latest
+
+api:
+  host: http://localhost:3001
+  locations-url: /v1/locations
+  suggestions-url: /v1/suggestions
+  locations-url-v2: /v2/locations
+  suggestions-url-v2: /v2/suggestions
+  parcelAddress-url: /parcel-service/v1/parceladdress
+  parcelCollection-url: /parcel-service/v1/parceladdress

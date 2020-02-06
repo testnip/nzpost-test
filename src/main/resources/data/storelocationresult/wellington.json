@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Posting box",
+    "address": "4 Moxham Avenue, Hataitai, Wellington",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=4%20Moxham%20Avenue,%20Hataitai,%20Wellington",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Hataitai Pharmacy",
+    "address": "4 Moxham Avenue, Hataitai, Wellington 6021",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=4%20Moxham%20Avenue,%20Hataitai,%20Wellington%206021",
+    "phone": "04 386 1647",
+    "services": [
+      "Parcel Collect"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "27 Akaroa Drive, Miramar, Wellington",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=27%20Akaroa%20Drive,%20Miramar,%20Wellington",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "274 Oriental Parade, Oriental Bay, Wellington",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=274%20Oriental%20Parade,%20Oriental%20Bay,%20Wellington",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "214 Oriental Parade, Wellington",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=214%20Oriental%20Parade,%20Wellington",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  }
+]

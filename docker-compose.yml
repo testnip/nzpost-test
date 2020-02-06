@@ -1,0 +1,26 @@
+version: '3.7'
+
+services:
+  eureka:
+    image: nzpost/eureka:latest
+    user: root
+    ports:
+    - "8761:8761"
+
+  zuul-gateway:
+    depends_on:
+    - eureka
+    image: nzpost/zuul-gateway:latest
+    environment:
+    - eureka.client.service-url.defaultZone=http://eureka:8761/eureka
+    user: root
+    ports:
+    - "3001:3001"
+
+  web-react:
+    depends_on:
+    - zuul-gateway
+    image: nzpost/web-react:latest
+    user: root
+    ports:
+    - "5000:80"

@@ -1,0 +1,3 @@
+# enable the tests to run on cloud services like saucelabs or browserstack
+cloud:
+  enabled: true

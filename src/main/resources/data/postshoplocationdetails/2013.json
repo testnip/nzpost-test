@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Botany Central NZ Post & Kiwibank",
+    "address": "5 Market Square, East Tamaki, Auckland 2013",
+    "distance": "1.2km",
+    "phone": "09 272 2647",
+    "openingHours": [
+      {
+        "day": "Mon - Fri",
+        "openingTime": "8:30am",
+        "closingTime": "5:30pm"
+      },
+      {
+        "day": "Saturday",
+        "openingTime": "9:30am",
+        "closingTime": "5:30pm"
+      },
+      {
+        "day": "Sunday",
+        "openingTime": "10am",
+        "closingTime": "4pm"
+      }
+    ],
+    "services": [
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Pay a bill",
+      "Standard banking",
+      "Counter delivery",
+      "Post a letter",
+      "Passport & ID photos",
+      "Kiwibank Transactions"
+    ]
+  }
+]

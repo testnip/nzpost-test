@@ -1,0 +1,14 @@
+{
+  "cardName": "Only card",
+  "cardNumber": "4111111111111111",
+  "expiryDate": "1222",
+  "cvvNumber": "1234",
+  "firstName": "",
+  "lastName": "",
+  "companyName": "",
+  "country": "",
+  "address": "",
+  "suburb": "",
+  "city": "",
+  "postcode":""
+}

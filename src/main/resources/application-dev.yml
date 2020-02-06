@@ -1,0 +1,8 @@
+host: https://dev-tools.cf.nzpost.co.nz
+
+api:
+  host: https://dev-tools.cf.nzpost.co.nz/api
+  locations-url: /postshop-locations/v1/locations
+  suggestions-url: /postshop-locations/v1/suggestions
+  locations-url-v2: /postshop-locations/v2/locations
+  suggestions-url-v2: /postshop-locations/v2/suggestions

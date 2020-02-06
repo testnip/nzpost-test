@@ -1,0 +1,152 @@
+{
+  "locations": [
+    {
+      "name": "Posting box",
+      "lat": -41.3043251,
+      "lng": 174.7938995,
+      "phone": "0800 501 501",
+      "address": "4 Moxham Avenue, Hataitai, Wellington",
+      "id": 158860,
+      "description": "Posting box cleared at  4:00PM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 690,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Wellington",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Hataitai Pharmacy",
+      "lat": -41.304328,
+      "lng": 174.793827,
+      "phone": "04 386 1647",
+      "address": "4 Moxham Avenue, Hataitai, Wellington 6021",
+      "id": 123056,
+      "description": null,
+      "type": "Third Party Partner",
+      "hours": [
+        {
+          "day": 0,
+          "open": "09:00",
+          "close": "17:30",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "09:00",
+          "close": "17:30",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "09:00",
+          "close": "17:30",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "09:00",
+          "close": "17:30",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "09:00",
+          "close": "17:30",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": "09:30",
+          "close": "12:30",
+          "closed": false
+        },
+        {
+          "day": 6,
+          "open": null,
+          "close": null,
+          "closed": true
+        }
+      ],
+      "services": [
+        "parcel_collection"
+      ],
+      "distance_in_m": 696,
+      "address_details": {
+        "address_line_1": "4 Moxham Avenue",
+        "suburb": "Hataitai",
+        "city": "Wellington",
+        "post_code": "6021"
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -41.30770874,
+      "lng": 174.817276,
+      "phone": "0800 501 501",
+      "address": "27 Akaroa Drive, Miramar, Wellington",
+      "id": 158854,
+      "description": "Posting box cleared at  9:00AM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 1362,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Wellington",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -41.29096285,
+      "lng": 174.796572,
+      "phone": "0800 501 501",
+      "address": "274 Oriental Parade, Oriental Bay, Wellington",
+      "id": 158729,
+      "description": "Posting box cleared at  9:00AM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 1446,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Wellington",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -41.29140472,
+      "lng": 174.7932129,
+      "phone": "0800 501 501",
+      "address": "214 Oriental Parade, Wellington",
+      "id": 158797,
+      "description": "Posting box cleared at  2:00PM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 1515,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Wellington",
+        "post_code": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "code": "SUCCESS",
+  "data": {
+    "addresses": [
+      {
+        "full_address": "14 Iwi Road, Baverstock, Hamilton 3200",
+        "address_id": "2833602",
+        "dpid": "3488226"
+      },
+      {
+        "full_address": "14 Iwi Street, Ngaio, Wellington 6035",
+        "address_id": "1283602",
+        "dpid": "1000378"
+      },
+      {
+        "full_address": "14 Iwinuku Crescent, Wattle Downs, Auckland 2103",
+        "address_id": "2593916",
+        "dpid": "3361505"
+      }
+    ]
+  }
+}

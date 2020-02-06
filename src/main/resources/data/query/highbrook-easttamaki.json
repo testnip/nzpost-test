@@ -1,0 +1,8 @@
+{
+  "type": "NEARBY",
+  "max": 5,
+  "value": {
+    "latitude": -36.9402664,
+    "longitude": 174.87723499999993
+  }
+}

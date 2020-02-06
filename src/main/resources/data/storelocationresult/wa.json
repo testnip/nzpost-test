@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Posting box",
+    "address": "Inter Island Ferry Terminal, Wellington",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=Inter%20Island%20Ferry%20Terminal,%20Wellington",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "36 Kaiwharawhara Road, Kaiwharawhara, Wellington",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=36%20Kaiwharawhara%20Road,%20Kaiwharawhara,%20Wellington",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Wellington-Ngaio Depot",
+    "address": "36-54 Kaiwharawhara Road, Kaiwharawhara, Wellington 6035",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=36-54%20Kaiwharawhara%20Road,%20Kaiwharawhara,%20Wellington%206035",
+    "phone": "0800 800 020"
+  },
+  {
+    "title": "Wellington CourierPost Depot",
+    "address": "36 Kaiwharawhara Road, Kaiwharawhara, Wellington 6035",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=36%20Kaiwharawhara%20Road,%20Kaiwharawhara,%20Wellington%206035",
+    "phone": "0800 736 353",
+    "services": [
+      "Post a parcel/drop off",
+      "Parcel Collect"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "122 Churchill Drive, Chartwell, Wellington",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=122%20Churchill%20Drive,%20Chartwell,%20Wellington",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  }
+]

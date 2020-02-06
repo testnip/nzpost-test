@@ -1,0 +1,12 @@
+# mvn build output folder
+/target/
+
+# local IDE files and folders
+.idea/**
+*.iml
+
+# mac os file
+*.DS_Store
+
+# report build
+/build/

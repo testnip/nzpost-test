@@ -1,0 +1,6 @@
+saucelabs:
+  # browser
+  # https://wiki.saucelabs.com/display/DOCS/Platform+Configurator#/
+  platform: macOS 10.13
+  browser-name: safari
+  browser-version: 12.0

@@ -1,0 +1,315 @@
+{
+  "locations": [
+    {
+      "name": "Wellesley Street NZ Post & Kiwibank",
+      "lat": -36.850722,
+      "lng": 174.763269,
+      "phone": "0800 081 190",
+      "address": "24 Wellesley Street West, Auckland Central, Auckland 1010",
+      "id": 58314,
+      "description": "Wellesley Street NZ Post & Kiwibank",
+      "type": "PostShop",
+      "hours": [
+        {
+          "day": 0,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": null,
+          "close": null,
+          "closed": true
+        },
+        {
+          "day": 6,
+          "open": null,
+          "close": null,
+          "closed": true
+        }
+      ],
+      "services": [
+        "post_a_parcel",
+        "purchase_postage",
+        "pay_a_bill",
+        "standard_banking_services",
+        "counter_delivery",
+        "dropbox",
+        "post_a_letter_standard",
+        "passport_and_id_photos",
+        "deposits_and_withdrawals"
+      ],
+      "distance_in_m": null,
+      "address_details": {
+        "address_line_1": "24 Wellesley Street West",
+        "suburb": "Auckland Central",
+        "city": "Auckland",
+        "post_code": "1010"
+      }
+    },
+    {
+      "name": "Wellesley Street Box Lobby",
+      "lat": -36.8507243753073,
+      "lng": 174.763259334679,
+      "phone": "0800 501 501",
+      "address": "24 Wellesley Street West, Auckland Central, Auckland 1010",
+      "id": 60630,
+      "description": "Wellesley Street Box Lobby",
+      "type": "Postbox Lobby",
+      "hours": [
+        {
+          "day": 0,
+          "open": "06:30",
+          "close": "16:00",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "06:30",
+          "close": "16:00",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "06:30",
+          "close": "16:00",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "06:30",
+          "close": "16:00",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "06:30",
+          "close": "16:00",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": null,
+          "close": null,
+          "closed": true
+        },
+        {
+          "day": 6,
+          "open": null,
+          "close": null,
+          "closed": true
+        }
+      ],
+      "services": [
+        "box_lobby",
+        "poste_restante",
+        "parcel_collection"
+      ],
+      "distance_in_m": null,
+      "address_details": {
+        "address_line_1": "24 Wellesley Street West",
+        "suburb": "Auckland Central",
+        "city": "Auckland",
+        "post_code": "1010"
+      }
+    },
+    {
+      "name": "Kiwibank ATM",
+      "lat": -36.850723,
+      "lng": 174.76327,
+      "phone": "080011 33 55",
+      "address": "24 Wellesley Street West, Auckland Central, Auckland 1010",
+      "id": 155899,
+      "description": null,
+      "type": "ATM",
+      "hours": [
+        {
+          "day": 0,
+          "open": "00:00",
+          "close": "23:45",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "00:00",
+          "close": "23:45",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "00:00",
+          "close": "23:45",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "00:00",
+          "close": "23:45",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "00:00",
+          "close": "23:45",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": "00:00",
+          "close": "23:45",
+          "closed": false
+        },
+        {
+          "day": 6,
+          "open": "00:00",
+          "close": "23:45",
+          "closed": false
+        }
+      ],
+      "services": [
+        "atm"
+      ],
+      "distance_in_m": null,
+      "address_details": {
+        "address_line_1": "24 Wellesley Street West",
+        "suburb": "Auckland Central",
+        "city": "Auckland",
+        "post_code": "1010"
+      }
+    },
+    {
+      "name": "City Forex",
+      "lat": -36.8504183905472,
+      "lng": 174.762405017197,
+      "phone": "09 970 1040",
+      "address": "44 Wellesley St W, Auckland, 1010",
+      "id": 155907,
+      "description": null,
+      "type": "Third Party Partner",
+      "hours": [
+        {
+          "day": 0,
+          "open": "09:00",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "09:00",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "09:00",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "09:00",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "09:00",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": "09:00",
+          "close": "13:00",
+          "closed": false
+        },
+        {
+          "day": 6,
+          "open": null,
+          "close": null,
+          "closed": true
+        }
+      ],
+      "services": [
+        "post_a_parcel",
+        "purchase_postage",
+        "pay_a_bill",
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": null,
+      "address_details": {
+        "address_line_1": "44 Wellesley St W",
+        "suburb": null,
+        "city": "Auckland",
+        "post_code": "1010"
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -36.85133557,
+      "lng": 174.7631997,
+      "phone": "0800 501 501",
+      "address": "24 Wellesley Street West, Auckland Central, Auckland",
+      "id": 158372,
+      "description": "Posting box cleared at  6:00PM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": null,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Auckland",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -36.85079458,
+      "lng": 174.7623814,
+      "phone": "0800 501 501",
+      "address": "44 Wellesley St West Street, Central City, Auckland",
+      "id": 160492,
+      "description": "Posting box cleared at  6:00PM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": null,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Auckland",
+        "post_code": null
+      }
+    }
+  ]
+}

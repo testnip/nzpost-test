@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Greytown PostShop",
+    "address": "12 Hastwell Street, Greytown 5712",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=12%20Hastwell%20Street,%20Greytown%205712",
+    "phone": "06 304 7237",
+    "services": [
+      "Box Lobby",
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Pay a bill",
+      "Counter delivery",
+      "Post a letter"
+    ]
+  }
+]

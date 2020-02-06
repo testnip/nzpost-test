@@ -1,0 +1,154 @@
+{
+  "locations": [
+    {
+      "name": "Posting box",
+      "lat": -43.47062169,
+      "lng": 172.6091634,
+      "phone": "0800 501 501",
+      "address": "169 Regents Park Drive, Casebrook, Christchurch",
+      "id": 159408,
+      "description": "Posting box cleared at  9:00AM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 178,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Christchurch",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -43.47278852,
+      "lng": 172.6174044,
+      "phone": "0800 501 501",
+      "address": "356 Main North Road, Redwood, Christchurch",
+      "id": 159374,
+      "description": "Posting box cleared at  9:00AM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 538,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Christchurch",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -43.47757655,
+      "lng": 172.6170086,
+      "phone": "0800 501 501",
+      "address": "288b Main North Road, Redwood, Christchurch",
+      "id": 159373,
+      "description": "Posting box cleared at  2:00PM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 888,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Christchurch",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Redwood Mini Market",
+      "lat": -43.477908,
+      "lng": 172.617058,
+      "phone": "03 352 7707",
+      "address": "284 Main North Road, Redwood, Christchurch 8051",
+      "id": 58343,
+      "description": null,
+      "type": "Third Party Partner",
+      "hours": [
+        {
+          "day": 0,
+          "open": "06:30",
+          "close": "19:30",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "06:30",
+          "close": "19:30",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "06:30",
+          "close": "19:30",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "06:30",
+          "close": "19:30",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "06:30",
+          "close": "19:30",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": "06:30",
+          "close": "19:00",
+          "closed": false
+        },
+        {
+          "day": 6,
+          "open": "07:30",
+          "close": "19:00",
+          "closed": false
+        }
+      ],
+      "services": [
+        "post_a_parcel",
+        "purchase_postage",
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 922,
+      "address_details": {
+        "address_line_1": "284 Main North Road",
+        "suburb": "Redwood",
+        "city": "Christchurch",
+        "post_code": "8051"
+      }
+    },
+    {
+      "name": "Posting box",
+      "lat": -43.47833945,
+      "lng": 172.6215087,
+      "phone": "0800 501 501",
+      "address": "45 Daniels Road, Redwood, Christchurch",
+      "id": 159333,
+      "description": "Posting box cleared at  9:00AM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 1178,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Christchurch",
+        "post_code": null
+      }
+    }
+  ]
+}

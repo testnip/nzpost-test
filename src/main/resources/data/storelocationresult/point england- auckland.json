@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Glen Innes Box Lobby",
+    "address": "280 Apirana Avenue, Glen Innes, Auckland 1072",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=280%20Apirana%20Avenue,%20Glen%20Innes,%20Auckland%201072",
+    "phone": "0800 081 190",
+    "services": [
+      "Box Lobby"
+    ]
+  },
+  {
+    "title": "Glen Innes NZ Post & Kiwibank",
+    "address": "280 Apirana Avenue, Glen Innes, Auckland 1072",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=280%20Apirana%20Avenue,%20Glen%20Innes,%20Auckland%201072",
+    "phone": "0800 081 190",
+    "services": [
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Pay a bill",
+      "Standard banking",
+      "Counter delivery",
+      "Dropbox",
+      "Post a letter",
+      "Passport & ID photos",
+      "Kiwibank Transactions"
+    ]
+  },
+  {
+    "title": "Kiwibank ATM",
+    "address": "280 Apirana Avenue, Glen Innes, Auckland 1072",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=280%20Apirana%20Avenue,%20Glen%20Innes,%20Auckland%201072",
+    "phone": "0800 501 501",
+    "services": [
+      "ATM"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "280 Apirana Avenue, Glen Innes, Auckland",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=280%20Apirana%20Avenue,%20Glen%20Innes,%20Auckland",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Countdown St Johns",
+    "address": "134 Felton Mathew Avenue, Saint Johns, Auckland 1072",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=134%20Felton%20Mathew%20Avenue,%20Saint%20Johns,%20Auckland%201072",
+    "phone": "0800 501 502",
+    "services": [
+      "Parcel Collect"
+    ]
+  }
+]

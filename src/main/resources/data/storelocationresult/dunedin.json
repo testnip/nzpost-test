@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Posting box",
+    "address": "110 Frederick Street, North Dunedin, Dunedin",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=110%20Frederick%20Street,%20North%20Dunedin,%20Dunedin",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "201 Great King Street, Dunedin",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=201%20Great%20King%20Street,%20Dunedin",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "266 George Street, Dunedin",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=266%20George%20Street,%20Dunedin",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Posting box",
+    "address": "251 George Street, Dunedin",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=251%20George%20Street,%20Dunedin",
+    "phone": "0800 501 501",
+    "services": [
+      "Post a letter"
+    ]
+  },
+  {
+    "title": "Dunedin Paper Plus",
+    "address": "251 George Street, Dunedin Central, Dunedin 9016",
+    "direction": "https://www.google.com/maps/dir/?api=1&destination=251%20George%20Street,%20Dunedin%20Central,%20Dunedin%209016",
+    "phone": "03 477 4291",
+    "services": [
+      "Post a parcel/drop off",
+      "Purchase postage",
+      "Post a letter"
+    ]
+  }
+]

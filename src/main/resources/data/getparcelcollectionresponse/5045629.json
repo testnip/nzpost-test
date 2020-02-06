@@ -1,0 +1,2986 @@
+{
+  "status": "success",
+  "code": "SUCCESS",
+  "data": {
+    "locations": [
+      {
+        "company_name": "Papatoetoe Central NZ Post &amp; Kiwibank",
+        "lat": -36.979668,
+        "lng": 174.85411,
+        "phone": "09 278 9027",
+        "full_address": "75 St George Street, Papatoetoe, Auckland 2025",
+        "id": 58217,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "15:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "10:00",
+            "close": "14:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 6120,
+        "address_details": {
+          "suburb": "Papatoetoe",
+          "city": "Auckland",
+          "post_code": "2025",
+          "address_line_1": "75 St George Street"
+        }
+      },
+      {
+        "company_name": "Manukau City Box Lobby",
+        "lat": -36.989762,
+        "lng": 174.879706,
+        "phone": "0800 501 501",
+        "full_address": "3 Ronwood Avenue, Manukau, Auckland 2104",
+        "id": 60616,
+        "hours": [
+          {
+            "day": 0,
+            "open": "07:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "07:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "07:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "07:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "07:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": null,
+            "close": null,
+            "closed": true
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 8103,
+        "address_details": {
+          "suburb": "Manukau",
+          "city": "Auckland",
+          "post_code": "2104",
+          "address_line_1": "3 Ronwood Avenue"
+        }
+      },
+      {
+        "company_name": "Royal Oak Central NZ Post &amp; Kiwibank",
+        "lat": -36.9116718481257,
+        "lng": 174.776274561882,
+        "phone": "0800 501 501",
+        "full_address": "794 Manukau Road, Royal Oak, Auckland 1023",
+        "id": 58243,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:30",
+            "close": "12:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 9628,
+        "address_details": {
+          "suburb": "Royal Oak",
+          "city": "Auckland",
+          "post_code": "1023",
+          "address_line_1": "794 Manukau Road"
+        }
+      },
+      {
+        "company_name": "Lynfield NZ Post &amp; Kiwibank",
+        "lat": -36.92603,
+        "lng": 174.72283,
+        "phone": "09 627 5092",
+        "full_address": "8B/15 The Avenue, Mount Roskill, Auckland 1041",
+        "id": 58148,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:30",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 9903,
+        "address_details": {
+          "suburb": "Mount Roskill",
+          "city": "Auckland",
+          "post_code": "1041",
+          "address_line_1": "8B/15 The Avenue"
+        }
+      },
+      {
+        "company_name": "Manurewa NZ Post &amp; Kiwibank",
+        "lat": -37.022057,
+        "lng": 174.896654,
+        "phone": "09 267 0331",
+        "full_address": "181 Great South Road, Manurewa, Auckland 2102",
+        "id": 58159,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:30",
+            "close": "14:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 9935,
+        "address_details": {
+          "suburb": "Manurewa",
+          "city": "Auckland",
+          "post_code": "2102",
+          "address_line_1": "181 Great South Road"
+        }
+      },
+      {
+        "company_name": "Penrose Central NZ Post &amp; Kiwibank",
+        "lat": -36.9096859288911,
+        "lng": 174.814512133598,
+        "phone": "0800 501 501",
+        "full_address": "39 Station Road, Penrose, Auckland 1061",
+        "id": 58222,
+        "hours": [
+          {
+            "day": 0,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": null,
+            "close": null,
+            "closed": true
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 10040,
+        "address_details": {
+          "suburb": "Penrose",
+          "city": "Auckland",
+          "post_code": "1061",
+          "address_line_1": "39 Station Road"
+        }
+      },
+      {
+        "company_name": "Countdown Three Kings",
+        "lat": -36.909284,
+        "lng": 174.754831,
+        "phone": "09 255 9705",
+        "full_address": "532 Mount Albert Road, Three Kings, Auckland 1042",
+        "id": 128568,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 10289,
+        "address_details": {
+          "suburb": "Three Kings",
+          "city": "Auckland",
+          "post_code": "1042",
+          "address_line_1": "532 Mount Albert Road"
+        }
+      },
+      {
+        "company_name": "Botany Junction NZ Post &amp; Kiwibank",
+        "lat": -36.965072,
+        "lng": 174.901997,
+        "phone": "09 265 1395",
+        "full_address": "277 Te Irirangi Drive, Flat Bush, Auckland 2019",
+        "id": 60745,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "14:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 10672,
+        "address_details": {
+          "suburb": "Flat Bush",
+          "city": "Auckland",
+          "post_code": "2019",
+          "address_line_1": "277 Te Irirangi Drive"
+        }
+      },
+      {
+        "company_name": "Blockhouse Bay Stationers ",
+        "lat": -36.9234361795217,
+        "lng": 174.701537489891,
+        "phone": "09 627 9886",
+        "full_address": "521 Blockhouse Bay Road, Blockhouse Bay, Auckland 0600",
+        "id": 58330,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "12:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 11339,
+        "address_details": {
+          "suburb": "Blockhouse Bay",
+          "city": "Auckland",
+          "post_code": "0600",
+          "address_line_1": "521 Blockhouse Bay Road"
+        }
+      },
+      {
+        "company_name": "Countdown Greenlane",
+        "lat": -36.889726,
+        "lng": 174.793484,
+        "phone": "09 255 2381",
+        "full_address": "326 Great South Road, Greenlane, Auckland 1051",
+        "id": 128564,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 12012,
+        "address_details": {
+          "suburb": "Greenlane",
+          "city": "Auckland",
+          "post_code": "1051",
+          "address_line_1": "326 Great South Road"
+        }
+      },
+      {
+        "company_name": "Green Bay Mini Market",
+        "lat": -36.930562,
+        "lng": 174.680264,
+        "phone": "09 827 3298",
+        "full_address": "56A Godley Road, Green Bay, Auckland 0604",
+        "id": 58095,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "15:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 12209,
+        "address_details": {
+          "suburb": "Green Bay",
+          "city": "Auckland",
+          "post_code": "0604",
+          "address_line_1": "56A Godley Road"
+        }
+      },
+      {
+        "company_name": "Owairaka NZ Post &amp; Kiwibank",
+        "lat": -36.90037,
+        "lng": 174.72009,
+        "phone": "09 620 6859",
+        "full_address": "218 Richardson Road, Mount Roskill, Auckland 1041",
+        "id": 58204,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "14:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 12434,
+        "address_details": {
+          "suburb": "Mount Roskill",
+          "city": "Auckland",
+          "post_code": "1041",
+          "address_line_1": "218 Richardson Road"
+        }
+      },
+      {
+        "company_name": "Owairaka PostShop",
+        "lat": -36.90037,
+        "lng": 174.72009,
+        "phone": "09 620 6859",
+        "full_address": "218 Richardson Road, Mount Roskill, Auckland 1041",
+        "id": 60284,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "14:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 12434,
+        "address_details": {
+          "suburb": "Mount Roskill",
+          "city": "Auckland",
+          "post_code": "1041",
+          "address_line_1": "218 Richardson Road"
+        }
+      },
+      {
+        "company_name": "Takanini Postcentre",
+        "lat": -37.039287,
+        "lng": 174.91987,
+        "phone": "09 298 5299",
+        "full_address": "1/15 Princess Street, Takanini 2112",
+        "id": 60094,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": null,
+            "close": null,
+            "closed": true
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 12505,
+        "address_details": {
+          "city": "Takanini",
+          "post_code": "2112",
+          "address_line_1": "1/15 Princess Street"
+        }
+      },
+      {
+        "company_name": "Sandringham Post &amp; Bookshop",
+        "lat": -36.892911,
+        "lng": 174.736348,
+        "phone": "09 849 4196",
+        "full_address": "587 Sandringham Road, Sandringham, Auckland 1025",
+        "id": 72532,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "13:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 12556,
+        "address_details": {
+          "suburb": "Sandringham",
+          "city": "Auckland",
+          "post_code": "1025",
+          "address_line_1": "587 Sandringham Road"
+        }
+      },
+      {
+        "company_name": "Hollywood Dairy",
+        "lat": -36.888526,
+        "lng": 174.747167,
+        "phone": "09 630 2650",
+        "full_address": "638 Dominion Road, Mount Eden, Auckland 1041",
+        "id": 99078,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "17:15",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:00",
+            "close": "12:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 12696,
+        "address_details": {
+          "suburb": "Mount Eden",
+          "city": "Auckland",
+          "post_code": "1041",
+          "address_line_1": "638 Dominion Road"
+        }
+      },
+      {
+        "company_name": "Mt Eden NZ Post &amp; Kiwibank",
+        "lat": -36.8821779911502,
+        "lng": 174.761924743652,
+        "phone": "09 630 3162",
+        "full_address": "445 Mount Eden Road, Mount Eden, Auckland 1024",
+        "id": 58339,
+        "hours": [
+          {
+            "day": 0,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 13045,
+        "address_details": {
+          "suburb": "Mount Eden",
+          "city": "Auckland",
+          "post_code": "1024",
+          "address_line_1": "445 Mount Eden Road"
+        }
+      },
+      {
+        "company_name": "Botany Box Lobby",
+        "lat": -36.9303956781935,
+        "lng": 174.909536812099,
+        "phone": "0800 501 501",
+        "full_address": "5 Te Koha Road, East Tamaki, Auckland 2013",
+        "id": 60384,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": null,
+            "close": null,
+            "closed": true
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 13065,
+        "address_details": {
+          "suburb": "East Tamaki",
+          "city": "Auckland",
+          "post_code": "2013",
+          "address_line_1": "5 Te Koha Road"
+        }
+      },
+      {
+        "company_name": "Titirangi NZ Post &amp; Kiwibank",
+        "lat": -36.9379929330048,
+        "lng": 174.657773305557,
+        "phone": "09 817 3080",
+        "full_address": "400 Titirangi Road, Titirangi, Auckland 0604",
+        "id": 58287,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 13416,
+        "address_details": {
+          "suburb": "Titirangi",
+          "city": "Auckland",
+          "post_code": "0604",
+          "address_line_1": "400 Titirangi Road"
+        }
+      },
+      {
+        "company_name": "Countdown St Lukes",
+        "lat": -36.883655,
+        "lng": 174.732997,
+        "phone": "09 255 2382",
+        "full_address": "80 St Lukes Road, Mount Albert, Auckland 1025",
+        "id": 128562,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "20:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "20:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "20:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "21:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "21:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:00",
+            "close": "20:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "08:00",
+            "close": "20:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 13623,
+        "address_details": {
+          "suburb": "Mount Albert",
+          "city": "Auckland",
+          "post_code": "1025",
+          "address_line_1": "80 St Lukes Road"
+        }
+      },
+      {
+        "company_name": "Starway Stationers",
+        "lat": -36.897296,
+        "lng": 174.697294,
+        "phone": "09 828 8272",
+        "full_address": "1978 Great North Road, Avondale, Auckland 1026",
+        "id": 72115,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "09:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "09:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "09:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "09:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "09:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:30",
+            "close": "16:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 13822,
+        "address_details": {
+          "suburb": "Avondale",
+          "city": "Auckland",
+          "post_code": "1026",
+          "address_line_1": "1978 Great North Road"
+        }
+      },
+      {
+        "company_name": "Countdown Mt Eden",
+        "lat": -36.875971,
+        "lng": 174.751562,
+        "phone": "09 255 2406",
+        "full_address": "117 Valley Road, Mount Eden, Auckland 1024",
+        "id": 128563,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 13938,
+        "address_details": {
+          "suburb": "Mount Eden",
+          "city": "Auckland",
+          "post_code": "1024",
+          "address_line_1": "117 Valley Road"
+        }
+      },
+      {
+        "company_name": "Meadowbank NZ Post &amp; Kiwibank",
+        "lat": -36.875755,
+        "lng": 174.827744,
+        "phone": "09 528 3956",
+        "full_address": "35 St Johns Road, Saint Johns, Auckland 1072",
+        "id": 58337,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 13990,
+        "address_details": {
+          "suburb": "Saint Johns",
+          "city": "Auckland",
+          "post_code": "1072",
+          "address_line_1": "35 St Johns Road"
+        }
+      },
+      {
+        "company_name": "Countdown Newmarket",
+        "lat": -36.870723,
+        "lng": 174.776883,
+        "phone": "09 255 9712",
+        "full_address": "277 Broadway, Newmarket, Auckland 1023",
+        "id": 128567,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 14160,
+        "address_details": {
+          "suburb": "Newmarket",
+          "city": "Auckland",
+          "post_code": "1023",
+          "address_line_1": "277 Broadway"
+        }
+      },
+      {
+        "company_name": "New North Pharmacy",
+        "lat": -36.8848554311538,
+        "lng": 174.714937806129,
+        "phone": "09 849 7656",
+        "full_address": "944 New North Road, Mount Albert, Auckland 1025",
+        "id": 58338,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "12:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 14168,
+        "address_details": {
+          "suburb": "Mount Albert",
+          "city": "Auckland",
+          "post_code": "1025",
+          "address_line_1": "944 New North Road"
+        }
+      },
+      {
+        "company_name": "Home Decorations",
+        "lat": -36.921487,
+        "lng": 174.647814,
+        "phone": "09 818 6170",
+        "full_address": "1 Withers Road, Glen Eden, Auckland 0602",
+        "id": 72284,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:00",
+            "close": "12:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 15138,
+        "address_details": {
+          "suburb": "Glen Eden",
+          "city": "Auckland",
+          "post_code": "0602",
+          "address_line_1": "1 Withers Road"
+        }
+      },
+      {
+        "company_name": "Countdown Grey Lynn Central",
+        "lat": -36.8649800146643,
+        "lng": 174.738094553408,
+        "phone": "09 255 9665",
+        "full_address": "Cnr Coleridge &amp; Williamson Ave, Grey Lynn, Auckland 1021",
+        "id": 128566,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "06:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "06:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "06:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "06:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "06:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "06:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "06:00",
+            "close": "22:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 15435,
+        "address_details": {
+          "suburb": "Grey Lynn",
+          "city": "Auckland",
+          "post_code": "1021",
+          "address_line_1": "Cnr Coleridge &amp; Williamson Ave"
+        }
+      },
+      {
+        "company_name": "Point Chevalier NZ Post &amp; Kiwibank",
+        "lat": -36.87023,
+        "lng": 174.71065,
+        "phone": "09 846 3949",
+        "full_address": "1197 Great North Road, Point Chevalier, Auckland 1022",
+        "id": 58228,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 15792,
+        "address_details": {
+          "suburb": "Point Chevalier",
+          "city": "Auckland",
+          "post_code": "1022",
+          "address_line_1": "1197 Great North Road"
+        }
+      },
+      {
+        "company_name": "Orakei  Superette",
+        "lat": -36.856012,
+        "lng": 174.814695,
+        "phone": "09 524 7313",
+        "full_address": "64 Coates Avenue, Orakei, Auckland 1071",
+        "id": 72435,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:00",
+            "close": "19:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "08:00",
+            "close": "19:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 15919,
+        "address_details": {
+          "suburb": "Orakei",
+          "city": "Auckland",
+          "post_code": "1071",
+          "address_line_1": "64 Coates Avenue"
+        }
+      },
+      {
+        "company_name": "Marina",
+        "lat": -36.881485,
+        "lng": 174.899781,
+        "phone": "0800 501 501",
+        "full_address": "1 Ara Tai, Half Moon Bay, Auckland 2012",
+        "id": 60386,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": null,
+            "close": null,
+            "closed": true
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 16245,
+        "address_details": {
+          "suburb": "Half Moon Bay",
+          "city": "Auckland",
+          "post_code": "2012",
+          "address_line_1": "1 Ara Tai"
+        }
+      },
+      {
+        "company_name": "West Lynn Superette",
+        "lat": -36.858792,
+        "lng": 174.730522,
+        "phone": "09 376 2039",
+        "full_address": "409 Richmond Road, Grey Lynn, Auckland 1021",
+        "id": 72513,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "07:30",
+            "close": "20:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "07:30",
+            "close": "20:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "07:30",
+            "close": "20:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "07:30",
+            "close": "20:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "07:30",
+            "close": "20:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:00",
+            "close": "20:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 16297,
+        "address_details": {
+          "suburb": "Grey Lynn",
+          "city": "Auckland",
+          "post_code": "1021",
+          "address_line_1": "409 Richmond Road"
+        }
+      },
+      {
+        "company_name": "Countdown Auckland Metro",
+        "lat": -36.848636,
+        "lng": 174.764641,
+        "phone": "09 255 2428",
+        "full_address": "19 Victoria Street West, Auckland Central, Auckland 1010",
+        "id": 128569,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "07:00",
+            "close": "22:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 16716,
+        "address_details": {
+          "suburb": "Auckland Central",
+          "city": "Auckland",
+          "post_code": "1010",
+          "address_line_1": "19 Victoria Street West"
+        }
+      },
+      {
+        "company_name": "Countdown Grey Lynn",
+        "lat": -36.854354,
+        "lng": 174.731869,
+        "phone": "09 255 2451",
+        "full_address": "271 Richmond Road, Grey Lynn, Auckland 1022",
+        "id": 128565,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 16728,
+        "address_details": {
+          "suburb": "Grey Lynn",
+          "city": "Auckland",
+          "post_code": "1022",
+          "address_line_1": "271 Richmond Road"
+        }
+      },
+      {
+        "company_name": "Howick East",
+        "lat": -36.904101,
+        "lng": 174.939209,
+        "phone": "0800 501 501",
+        "full_address": "1 Litten Road, Cockle Bay, Auckland 2014",
+        "id": 60322,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": null,
+            "close": null,
+            "closed": true
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 16925,
+        "address_details": {
+          "suburb": "Cockle Bay",
+          "city": "Auckland",
+          "post_code": "2014",
+          "address_line_1": "1 Litten Road"
+        }
+      },
+      {
+        "company_name": "Countdown Auckland City",
+        "lat": -36.845021,
+        "lng": 174.772881,
+        "phone": "09 275 2567",
+        "full_address": "76 Quay Street, Auckland Central, Auckland 1010",
+        "id": 128570,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "01:00",
+            "close": "23:30",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 17037,
+        "address_details": {
+          "suburb": "Auckland Central",
+          "city": "Auckland",
+          "post_code": "1010",
+          "address_line_1": "76 Quay Street"
+        }
+      },
+      {
+        "company_name": "St Heliers NZ Post &amp; Kiwibank",
+        "lat": -36.850895,
+        "lng": 174.85783,
+        "phone": "09 575 4971",
+        "full_address": "28 St Heliers Bay Road, St Heliers, Auckland 1071",
+        "id": 58250,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:30",
+            "close": "16:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 17432,
+        "address_details": {
+          "suburb": "St Heliers",
+          "city": "Auckland",
+          "post_code": "1071",
+          "address_line_1": "28 St Heliers Bay Road"
+        }
+      },
+      {
+        "company_name": "Glendene Village Pharmacy",
+        "lat": -36.886864,
+        "lng": 174.644662,
+        "phone": "09 838 9580",
+        "full_address": "4343 Great North Road, Glendene, Auckland 0602",
+        "id": 72215,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 17788,
+        "address_details": {
+          "suburb": "Glendene",
+          "city": "Auckland",
+          "post_code": "0602",
+          "address_line_1": "4343 Great North Road"
+        }
+      },
+      {
+        "company_name": "Amcal All Seasons Pharmacy - Edmonton",
+        "lat": -36.862979,
+        "lng": 174.64824,
+        "phone": "09 834 6201",
+        "full_address": "288 Te Atatu Road, Te Atatu South, Auckland 0610",
+        "id": 72195,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "18:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "18:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "18:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "18:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "18:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 19517,
+        "address_details": {
+          "suburb": "Te Atatu South",
+          "city": "Auckland",
+          "post_code": "0610",
+          "address_line_1": "288 Te Atatu Road"
+        }
+      },
+      {
+        "company_name": "B H Oldham Pharmacy",
+        "lat": -36.862073,
+        "lng": 174.621523,
+        "phone": "09 838 8531",
+        "full_address": "128 Rathgar Road, Henderson, Auckland 0610",
+        "id": 72119,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "09:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "10:00",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 21190,
+        "address_details": {
+          "suburb": "Henderson",
+          "city": "Auckland",
+          "post_code": "0610",
+          "address_line_1": "10/128 Rathgar Road"
+        }
+      },
+      {
+        "company_name": "Mitchell's Paper Power",
+        "lat": -36.801709,
+        "lng": 174.744615,
+        "phone": "09 418 4751",
+        "full_address": "3 Pearn Crescent, Northcote, Auckland 0627",
+        "id": 58192,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:45",
+            "close": "13:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 22147,
+        "address_details": {
+          "suburb": "Northcote",
+          "city": "Auckland",
+          "post_code": "0627",
+          "address_line_1": "3 Pearn Crescent"
+        }
+      },
+      {
+        "company_name": "Valentines Stationers",
+        "lat": -36.796874,
+        "lng": 174.778215,
+        "phone": "09 489 2635",
+        "full_address": "359 Lake Road, Hauraki, Auckland 0622",
+        "id": 72237,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:30",
+            "close": "19:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 22351,
+        "address_details": {
+          "suburb": "Hauraki",
+          "city": "Auckland",
+          "post_code": "0622",
+          "address_line_1": "359 Lake Road"
+        }
+      },
+      {
+        "company_name": "Beachlands NZ Post &amp; Kiwibank",
+        "lat": -36.882536,
+        "lng": 174.996944,
+        "phone": "09 536 6118",
+        "full_address": "38 Wakelin Road, Beachlands, Auckland 2018",
+        "id": 58040,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:30",
+            "close": "14:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 22483,
+        "address_details": {
+          "suburb": "Beachlands",
+          "city": "Auckland",
+          "post_code": "2018",
+          "address_line_1": "38 Wakelin Road"
+        }
+      },
+      {
+        "company_name": "Countdown Takapuna",
+        "lat": -36.791511,
+        "lng": 174.765235,
+        "phone": "09 255 2423",
+        "full_address": "10 Barrys Point Road, Takapuna, Auckland 0622",
+        "id": 128571,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "06:00",
+            "close": "00:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 23024,
+        "address_details": {
+          "suburb": "Takapuna",
+          "city": "Auckland",
+          "post_code": "0622",
+          "address_line_1": "10 Barrys Point Road"
+        }
+      },
+      {
+        "company_name": "Countdown Glenfield Downing St",
+        "lat": -36.785271,
+        "lng": 174.721756,
+        "phone": "09 255 9693",
+        "full_address": "Cnr Glenfield Rd &amp; Downing St, Glenfield, Auckland 0629",
+        "id": 128572,
+        "partner": "ZEnergy",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "21:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "21:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "21:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "22:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:00",
+            "close": "21:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "08:00",
+            "close": "21:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 24366,
+        "address_details": {
+          "suburb": "Glenfield",
+          "city": "Auckland",
+          "post_code": "0629",
+          "address_line_1": "Cnr Glenfield Rd &amp; Downing St"
+        }
+      },
+      {
+        "company_name": "Stationery City Glenfield",
+        "lat": -36.779806,
+        "lng": 174.74525,
+        "phone": "09 443 5550",
+        "full_address": "2 Porana Road, Wairau Valley, Auckland 0627",
+        "id": 72655,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:30",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "09:30",
+            "close": "17:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 24539,
+        "address_details": {
+          "suburb": "Wairau Valley",
+          "city": "Auckland",
+          "post_code": "0627",
+          "address_line_1": "2 Porana Road"
+        }
+      },
+      {
+        "company_name": "Beachhaven NZ Post &amp; Kiwibank",
+        "lat": -36.792519,
+        "lng": 174.687219,
+        "phone": "09 483 6421",
+        "full_address": "12 Sunnyhaven Avenue, Beach Haven, Auckland 0626",
+        "id": 58329,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:30",
+            "close": "17:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "09:00",
+            "close": "12:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 24544,
+        "address_details": {
+          "suburb": "Beach Haven",
+          "city": "Auckland",
+          "post_code": "0626",
+          "address_line_1": "12 Sunnyhaven Avenue"
+        }
+      },
+      {
+        "company_name": "Foursquare Hobsonville",
+        "lat": -36.798268,
+        "lng": 174.649345,
+        "phone": "09 416 8279",
+        "full_address": "4 Clark Road, Hobsonville, Auckland 0618",
+        "id": 72255,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "07:00",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "07:30",
+            "close": "19:30",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 25416,
+        "address_details": {
+          "suburb": "Hobsonville",
+          "city": "Auckland",
+          "post_code": "0618",
+          "address_line_1": "4 Clark Road"
+        }
+      },
+      {
+        "company_name": "Greenhithe Store",
+        "lat": -36.775788,
+        "lng": 174.67025,
+        "phone": "09 413 9505",
+        "full_address": "8 Greenhithe Road, Greenhithe, Auckland 0632",
+        "id": 72221,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "06:30",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "06:30",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "06:30",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "06:30",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "06:30",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "07:30",
+            "close": "19:30",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "08:00",
+            "close": "19:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 26840,
+        "address_details": {
+          "suburb": "Greenhithe",
+          "city": "Auckland",
+          "post_code": "0632",
+          "address_line_1": "8 Greenhithe Road"
+        }
+      },
+      {
+        "company_name": "Sunnynook NZ Post &amp; Kiwibank",
+        "lat": -36.758402,
+        "lng": 174.741249,
+        "phone": "09 410 8364",
+        "full_address": "106 Sunnynook Road, Sunnynook, Auckland 0620",
+        "id": 58257,
+        "hours": [
+          {
+            "day": 0,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "08:00",
+            "close": "18:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": "08:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 6,
+            "open": "09:00",
+            "close": "16:00",
+            "closed": false
+          }
+        ],
+        "distance_in_m": 26945,
+        "address_details": {
+          "suburb": "Sunnynook",
+          "city": "Auckland",
+          "post_code": "0620",
+          "address_line_1": "106 Sunnynook Road"
+        }
+      },
+      {
+        "company_name": "Shree Superette",
+        "lat": -36.793402,
+        "lng": 174.615823,
+        "phone": "09 416 8813",
+        "full_address": "89 Brigham Creek Road, Whenuapai, Auckland 0618",
+        "id": 72688,
+        "partner": "postcentre",
+        "hours": [
+          {
+            "day": 0,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 1,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 2,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 3,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 4,
+            "open": "09:00",
+            "close": "17:00",
+            "closed": false
+          },
+          {
+            "day": 5,
+            "open": null,
+            "close": null,
+            "closed": true
+          },
+          {
+            "day": 6,
+            "open": null,
+            "close": null,
+            "closed": true
+          }
+        ],
+        "distance_in_m": 27444,
+        "address_details": {
+          "suburb": "Whenuapai",
+          "city": "Auckland",
+          "post_code": "0618",
+          "address_line_1": "89 Brigham Creek Road"
+        }
+      }
+    ]
+  }
+}

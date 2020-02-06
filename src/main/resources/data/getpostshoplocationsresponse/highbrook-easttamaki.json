@@ -1,0 +1,240 @@
+{
+  "locations": [
+    {
+      "name": "Posting box",
+      "lat": -36.94021814,
+      "lng": 174.8770283,
+      "phone": "0800 501 501",
+      "address": "122 Kerwyn Avenue, East Tamaki, Auckland",
+      "id": 160479,
+      "description": "Posting box cleared at  5:00PM\nNot cleared weekends or public holidays.",
+      "type": "Postbox",
+      "hours": [],
+      "services": [
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 19,
+      "address_details": {
+        "address_line_1": null,
+        "suburb": null,
+        "city": "Auckland",
+        "post_code": null
+      }
+    },
+    {
+      "name": "Auckland CourierPost Depot",
+      "lat": -36.941403,
+      "lng": 174.875164,
+      "phone": "0800 268 7437",
+      "address": "23 Underwood Street, East Tamaki, Auckland 2013",
+      "id": 99065,
+      "description": null,
+      "type": "Depot",
+      "hours": [
+        {
+          "day": 0,
+          "open": "08:30",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "08:30",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "08:30",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "08:30",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "08:30",
+          "close": "18:00",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": "08:00",
+          "close": "12:00",
+          "closed": false
+        },
+        {
+          "day": 6,
+          "open": null,
+          "close": null,
+          "closed": true
+        }
+      ],
+      "services": [
+        "post_a_parcel"
+      ],
+      "distance_in_m": 223,
+      "address_details": {
+        "address_line_1": "23 Underwood Street",
+        "suburb": "East Tamaki",
+        "city": "Auckland",
+        "post_code": "2013"
+      }
+    },
+    {
+      "name": "Highbrook Box Lobby",
+      "lat": -36.941591371612,
+      "lng": 174.88103067531,
+      "phone": "0800 501 501",
+      "address": "122 Kerwyn Avenue",
+      "id": 60668,
+      "description": "Highbrook Box Lobby",
+      "type": "Postbox Lobby",
+      "hours": [],
+      "services": [
+        "box_lobby"
+      ],
+      "distance_in_m": 368,
+      "address_details": {
+        "address_line_1": "122 Kerwyn Avenue",
+        "suburb": null,
+        "city": "Manukau",
+        "post_code": "2161"
+      }
+    },
+    {
+      "name": "Smile Supermarket",
+      "lat": -36.937369,
+      "lng": 174.873416,
+      "phone": "09 265 0246",
+      "address": "60 Highbrook Drive, East Tamaki, Auckland 2013",
+      "id": 141203,
+      "description": null,
+      "type": "Third Party Partner",
+      "hours": [
+        {
+          "day": 0,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": "09:00",
+          "close": "13:00",
+          "closed": false
+        },
+        {
+          "day": 6,
+          "open": null,
+          "close": null,
+          "closed": true
+        }
+      ],
+      "services": [
+        "post_a_parcel",
+        "purchase_postage",
+        "post_a_letter_standard"
+      ],
+      "distance_in_m": 467,
+      "address_details": {
+        "address_line_1": "60 Highbrook Drive",
+        "suburb": "East Tamaki",
+        "city": "Auckland",
+        "post_code": "2013"
+      }
+    },
+    {
+      "name": "South East Auckland Business Banking Centre",
+      "lat": -36.937368,
+      "lng": 174.873416,
+      "phone": "09 272 2458",
+      "address": "60 Highbrook Drive, East Tamaki, Auckland 2013",
+      "id": 60785,
+      "description": null,
+      "type": "Business Banking Centre",
+      "hours": [
+        {
+          "day": 0,
+          "open": "08:30",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 1,
+          "open": "08:30",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 2,
+          "open": "08:30",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 3,
+          "open": "08:30",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 4,
+          "open": "08:30",
+          "close": "17:00",
+          "closed": false
+        },
+        {
+          "day": 5,
+          "open": null,
+          "close": null,
+          "closed": true
+        },
+        {
+          "day": 6,
+          "open": null,
+          "close": null,
+          "closed": true
+        }
+      ],
+      "services": [
+        "business_banking_services"
+      ],
+      "distance_in_m": 468,
+      "address_details": {
+        "address_line_1": "60 Highbrook Drive",
+        "suburb": "East Tamaki",
+        "city": "Auckland",
+        "post_code": "2013"
+      }
+    }
+  ]
+}
